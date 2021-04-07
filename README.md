@@ -15,3 +15,4 @@ https://colab.research.google.com/drive/11gBo_XZbFqDTXzGUG2XoL2if9z04mtAr?usp=sh
 
 ## 5주차
  [판별 분석](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a8d1d8c2d135613e5cfcd2b116c9e0a995f0199f/5%EC%A3%BC%EC%B0%A8%20%ED%8C%90%EB%B3%84%20%EB%B6%84%EC%84%9D.pdf)
+/ [실습](https://colab.research.google.com/drive/1auNQcH_n0tsdK01th9AIAr4vsMsQ0iJh?usp=sharing)
