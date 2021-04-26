@@ -10,7 +10,7 @@
  [KNN](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/3ad4a7c54d501231784d7fd123ac10d067c9dcd5/KNN.pdf) / [실습](https://github.com/Looma1116/Seungjoon_Lee/blob/a201319869604fae26ed166ec42a135a9729397f/w3_Iris.ipynb)
 
 ## 4주차
- [Regression](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/2035532519cf1aff8aa8bf423e75670d7e18e30c/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EB%A5%98.pdf) / [실습(Iris)](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a142010545728ded2d6011f57429049afe2f0a87/w4_Iris_logistic.ipynb) / [실습(Wine Regularization)](https://colab.research.google.com/drive/1fPExQByYyku7jKGexrIfzyNu9BVrQu6j?usp=sharing) / [실습(Wine KNN)](
+ [Regression](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/2035532519cf1aff8aa8bf423e75670d7e18e30c/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EB%A5%98.pdf) / [실습(Iris)](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a142010545728ded2d6011f57429049afe2f0a87/w4_Iris_logistic.ipynb) / [실습(Wine Regularization)](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/b2c58cbc62f5c74ec517123f996a63e673a0ecb5/w4_Logistic_regression_regularization(wine).ipynb) / [실습(Wine KNN)](
 https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a993c4a6f4ea6ef5dd11ba16eed10d5dc3e2d9a7/wine_KNN.ipynb)
 
 ## 5주차
