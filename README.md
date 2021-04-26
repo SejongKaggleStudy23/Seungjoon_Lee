@@ -11,7 +11,7 @@
 
 ## 4주차
  [Regression](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/2035532519cf1aff8aa8bf423e75670d7e18e30c/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EB%A5%98.pdf) / [실습(Iris)](https://github.com/Looma1116/Seungjoon_Lee/blob/9e838c809a782e1d5d3af3709e8f7f62c963d236/w4_Iris_logistic.ipynb) / [실습(Wine Regularization)](https://github.com/Looma1116/Seungjoon_Lee/blob/9e838c809a782e1d5d3af3709e8f7f62c963d236/w4_Logistic_regression_regularization(wine).ipynb) / [실습(Wine KNN)](
-https://colab.research.google.com/drive/11gBo_XZbFqDTXzGUG2XoL2if9z04mtAr?usp=sharing)
+https://github.com/Looma1116/Seungjoon_Lee/blob/d51359a10cb7ad877360bd2fc504c26652ff36d2/w4_wine_KNN.ipynb)
 
 ## 5주차
  [판별 분석](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a8d1d8c2d135613e5cfcd2b116c9e0a995f0199f/5%EC%A3%BC%EC%B0%A8%20%ED%8C%90%EB%B3%84%20%EB%B6%84%EC%84%9D.pdf)
