@@ -18,4 +18,4 @@ https://github.com/Looma1116/Seungjoon_Lee/blob/d51359a10cb7ad877360bd2fc504c266
 / [실습](https://github.com/Looma1116/Seungjoon_Lee/blob/3e9635065759a12e66b71f27106dd3d5c6eab299/w5_Iris_Discriminant_Analysis.ipynb)   
 
 ## 6주차
- [의사 결정 나무](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/87d5e95261a9c71bf3c6941bab85a19086cdbdec/6%EC%A3%BC%EC%B0%A8%20%EC%9D%98%EC%82%AC%20%EA%B2%B0%EC%A0%95%20%EB%82%98%EB%AC%B4.pdf) / [실습](https://colab.research.google.com/drive/1-X-seVBKDuOzbLjdgJdF44241Rwp6pp0?usp=sharing)
+ [의사 결정 나무](https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/87d5e95261a9c71bf3c6941bab85a19086cdbdec/6%EC%A3%BC%EC%B0%A8%20%EC%9D%98%EC%82%AC%20%EA%B2%B0%EC%A0%95%20%EB%82%98%EB%AC%B4.pdf) / [실습](https://github.com/Looma1116/Seungjoon_Lee/blob/37f2e78f5102f07c31064a177ff9ae7f8b0f2086/w6_Decision_Tree.ipynb)
