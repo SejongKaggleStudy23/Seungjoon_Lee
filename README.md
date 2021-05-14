@@ -27,4 +27,4 @@ https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a993c4a6f4ea6ef5dd
 [군집화](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/5ccdb1afee22dd4ae7a5833a1ef8616da2ec9b51/%EA%B5%B0%EC%A7%91%ED%99%94.pdf) 
 
 ## 9주차
-[차원 축소(PCA)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/21fd793fb728c2d9d06bc96510142deff86ac611/%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C.pdf)
+[차원 축소(PCA)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/21fd793fb728c2d9d06bc96510142deff86ac611/%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C.pdf) / [실습](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/0808ac0c7dbe15771e369f44992d2ad0cd38d60f/week8_PCA_vs_LDA.ipynb)
