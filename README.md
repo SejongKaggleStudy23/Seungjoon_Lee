@@ -28,3 +28,6 @@ https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a993c4a6f4ea6ef5dd
 
 ## 9주차
 [차원 축소(PCA)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/21fd793fb728c2d9d06bc96510142deff86ac611/%EC%B0%A8%EC%9B%90%20%EC%B6%95%EC%86%8C.pdf) / [실습](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/0808ac0c7dbe15771e369f44992d2ad0cd38d60f/week8_PCA_vs_LDA.ipynb)
+
+## 10주차
+[교차 검증](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/0d51a39d64d66a24f28acfa3ab8bcb0eb8c71fc3/%EA%B5%90%EC%B0%A8%20%EA%B2%80%EC%A6%9D.pdf)
