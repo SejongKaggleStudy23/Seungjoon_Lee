@@ -34,3 +34,6 @@ https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a993c4a6f4ea6ef5dd
 
 ## 11주차  
 [선형 회귀](https://looma1116.tistory.com/tag/linear%20regression) / [실습](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/81789fdd07d62ff163180c7b35572793178f8a6e/w11_Linear_Regression.ipynb) / [Kaggle 실습](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/0b145c5f10fee123dba357ddc024a22855172d03/w10_regression_cabbage_price_.ipynb)
+
+## 12주차
+[실습](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/a12a88df34e3c07d20e6ab1c9ced375ab3c979eb/LogisticRegression.ipynb)
