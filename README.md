@@ -37,3 +37,6 @@ https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a993c4a6f4ea6ef5dd
 
 ## 12주차
 [로지스틱 회귀](https://looma1116.tistory.com/tag/logistic) / [다중 로지스틱 회귀](https://looma1116.tistory.com/tag/softmax) / [실습(Single)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/a12a88df34e3c07d20e6ab1c9ced375ab3c979eb/LogisticRegression.ipynb) / [실습(Multi)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/ccdee48f5f085820aa7eeb39599172a5f2743485/MultiLogisticRegression.ipynb)
+
+## 13주차
+[뉴럴 네트워크](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/aa614183881522667f954e921de93d6a927236d7/%EB%89%B4%EB%9F%B4%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.pdf) / [실습{SP)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/df6f882db384f92bbd0eb679d1d6481a75387db0/XOR_SLP.ipynb) / [실습{MLP)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/aa614183881522667f954e921de93d6a927236d7/XOR_MLP.ipynb)
