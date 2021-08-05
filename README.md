@@ -40,3 +40,8 @@ https://github.com/Sejong-Kaggle-Study-3rd/Seungjoon_Lee/blob/a993c4a6f4ea6ef5dd
 
 ## 13주차
 [뉴럴 네트워크](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/aa614183881522667f954e921de93d6a927236d7/%EB%89%B4%EB%9F%B4%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.pdf) / [실습{SP)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/df6f882db384f92bbd0eb679d1d6481a75387db0/XOR_SLP.ipynb) / [실습{MLP)](https://github.com/Looma1116/Kaggle-Study_Seungjoon_Lee/blob/aa614183881522667f954e921de93d6a927236d7/XOR_MLP.ipynb)
+
+    
+-----
+# 강화학습
+[Cartpole](https://colab.research.google.com/drive/1Wk0rYF7Xb5sjDHDS8jtbW3CiSZT7pGqJ?usp=sharing)
